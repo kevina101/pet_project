@@ -1,0 +1,128 @@
+.navbar {
+    background: linear-gradient(45deg, #8093F1,#B388EB);
+    height: 74px;
+    font-size: 30px;
+}
+
+a:link {
+    color:red;
+    font-size:30px;
+    font-family:sans-serif;
+    border: 2px purple;
+    justify-content: center
+}
+
+a:visited {
+    color:linear-gradient(45deg, #B388EB, #8093F1);
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.filter-nav {
+    text-align: center;
+    justify-content: center;
+
+}
+
+
+.dogImages {
+    border: 2px groove #B388EB;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.dogImages:hover {
+    background: linear-gradient(45deg, #B388EB, #8093F1);
+}
+
+.login, .Register {
+    background-image: url("https://www.sonomacountygazette.com/cms/images/paw-prints-up-right.jpg");
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    padding:20px;
+    border-spacing: 20px;
+
+}
+
+.home {
+    height: 100%;
+    color: hsl(191, 28%, 20%);
+    background-image: url("https://www.sonomacountygazette.com/cms/images/paw-prints-up-right.jpg");
+}
+
+input,
+.filter-options,
+button {
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(45deg, #B388EB, #8093F1);
+    -webkit-box-shadow: 0 0 5px #cb8;
+    box-shadow: 0 0 5px #cb8;
+    border-radius:25px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 100%;
+    letter-spacing: 1px;
+    justify-content: center;
+    width:300px;
+}
+
+
+.title {
+    font-family: cursive, sans-serif;
+    font-size: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+.styles_modal__gNwvD {
+   background: linear-gradient(45deg, #8093F1,#B388EB);
+
+}
+
+
+.modal-options {
+    text-align: center;
+ 
+}
+
+dog-profile-image {
+    width:100px;
+}
+
+#h3 {
+    text-align: center;
+}
+
+Span {
+    font-size:30px;
+    font-family:sans-serif;
+    color:palevioletred;
+}
+
+.adopt {
+    background: linear-gradient(45deg, #8093F1,#B388EB);
+    height:100vh;
+    background-image: url("https://www.sonomacountygazette.com/cms/images/paw-prints-up-right.jpg");
+    text-align:center;
+    justify-content: center;
+    border:2px;
+    padding:20px;
+    font-size:20px;
+    font-family:sans-serif;
+    color:red
+}
+
+.Routes {
+    background: linear-gradient(45deg, #8093F1,#B388EB);
+    font-family:cursive;
+    font-size:20px;
+    text-align:center;
+    text-underline-position: above;
+}
